@@ -1,0 +1,10 @@
+[package]
+name = "live_streamer"
+version = "0.1.0"
+authors = ["RaymondBaker <raymond_baker@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "*"
+regex   = "*"
+crypto  = "*"
